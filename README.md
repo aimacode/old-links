@@ -8,7 +8,7 @@ Each line in [links.txt](links.txt) has the format: *Title* [`*`] *url* *topics*
 
 For example,
 
-     Agents Web (UMBC)*  http://agents.umbc.edu intro,agents.edu One of the best sites for agent news and software.
+     Agents Web (UMBC)*  http://agents.umbc.edu intro,agents.edu Great site for agent news and software.
      
 is a line whose fields are as follows:
 
@@ -17,7 +17,7 @@ is a line whose fields are as follows:
      url     = 'http://agents.umbc.edu'
      topics  = {'intro', 'agents'}
      genre   = 'edu'
-     comment = 'One of the best sites for agent news and software.'
+     comment = 'Great site for agent news and software.'
 
 The optional `*` means that the item is *highly recommended*. A link can have one or more comma-separated topics (but only one genre). We supply [code](parse.py) to parse this format. The topics and genres are as follows:
 
