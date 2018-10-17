@@ -47,7 +47,7 @@ AgentNews (UMBC)*  http://www.cs.umbc.edu/agentnews/ agents.news A very useful n
 Agentis http://www.agentissoftware.com/home.jsp agents.com
 Agentland http://www.agentland.com intro,agents.com
 Agents (IBM)  http://www.research.ibm.com/iagents/ agents.edu
-Agents Web (UMBC)*  http://agents.umbc.edu intro,agents.edu One of the best sites for agent news and software.
+Agents Web (UMBC)*  http://agents.umbc.edu agents.edu One of the best sites for agent news and software.
 Agents using Java http://www.amazon.com/exec/obidos/ASIN/047139601X java.ref A book on programming agents (mostly for the Internet) in Java
 Agentsheets http://www.agentsheets.com agents.soft IDE for developing agents and environments; designed for non-programmers.
 Agentware Systems http://www.agentwaresystems.com/ agents.com
@@ -92,7 +92,7 @@ Barto, Andy http://envy.cs.umass.edu/People/barto/barto.html learning.people
 Baum, Eric http://www.neci.nj.nec.com/homepages/eric/eric.html learning.people
 Bayes Limited*  http://www.ai.mit.edu/lab/gsb/gsb-archive/gsb94-11nov11 uncertainty.humor A humorous look at how random events can influence an election.
 Bayes Net Toolbox (Matlab) http://www.cs.berkeley.edu/~murphyk/Bayes/bnt.html uncertainty.soft
-Bayesia http://www.bayesia.com prob uncertainty.com Company selling Bayes net software
+Bayesia http://www.bayesia.com uncertainty.com Company selling Bayes net software
 Bayesian systems http://www.bayes.com/ uncertainty.com
 Bayesians list*  http://bayes.stat.washington.edu/bayes_people.html uncertainty.people Fairly complete list of people working in Bayesian inference.
 Bekey, George http://www-robotics.usc.edu/~bekey/ robotics.people
@@ -553,7 +553,7 @@ Otter  http://www.mcs.anl.gov/home/mccune/ar/otter/index.html logic,java.soft
 PC AI  http://www.pcai.com/ intro.jour
 PDC (Prolog) http://www.pdc.dk prolog,planning.com
 PVS verification system http://pvs.csl.sri.com/ logic.soft
-Papers on Consciousness* http://www.u.arizona.edu/~chalmers/online.html David Chalmers phil.ref excellent collection of papers on consciousness and philosophy of mind.
+Papers on Consciousness* http://www.u.arizona.edu/~chalmers/online.html phil.ref David Chalmers  excellent collection of papers on consciousness and philosophy of mind.
 Pazzani, Mike http://www.ics.uci.edu/~pazzani/ learning.people
 Pearl, Judea  http://bayes.cs.ucla.edu/jp_home.html intro,search,uncertainty.people
 Peirce, Charles S*  http://www.peirce.org/peirce/ logic,phil.people One of the pioneers of logic. An excellent web site.
@@ -592,7 +592,7 @@ Pustejovsky, James http://www.cs.brandeis.edu/~jamesp/ nlp.people
 Putnam, Hilary http://spazioweb.inwind.it/albgaz/putnam/puteng.html logic.people
 Puzzle Solving in Python http://users.rcn.com/python/download/puzzle.py python.soft
 PyroRobotics http://pyrorobotics.org/ python,robotics.soft Robotics in Python
-Python Essential Ref  http://www.amazon.com/exec/obidos/ASIN/0735710910 python.ref
+Python Essential Ref http://www.amazon.com/exec/obidos/ASIN/0735710910 python.ref
 Python vs Lisp http://www.norvig.com/python-lisp.html python,lisp.ref
 Python.org* http://www.python.org python.ref Home page for the open-source Python language
 Quinlan, Ross http://www.cse.unsw.edu.au/~quinlan/ learning.people
@@ -654,7 +654,7 @@ Schank, Roger http://www.engines4ed.org/hyperbook/misc/rcs.html  intro,nlp.peopl
 Schemers http://www.schemers.com/ lisp.com
 Schlimmer, Jeff mailto:schlimmer@microsoft.com learning.people
 Schubert, Len  http://www.cs.rochester.edu/u/schubert/ intro,logic,nlp.people
-Schütze, Hinrich http://www-csli.stanford.edu/~schuetze/csli-homepage.html nlp.people
+Schutze, Hinrich http://www-csli.stanford.edu/~schuetze/csli-homepage.html nlp.people
 Searle, John http://ist-socrates.berkeley.edu/~jsearle/ phil.people
 Sejnowski, Terry http://www.cnl.salk.edu/CNL/ learning.people
 Selker, Ted  http://web.media.mit.edu/~selker/ agents.people Expert in Human-Computer Interaction; inventor of the little red pointing device on your IBM laptop computer.
