@@ -47,7 +47,7 @@ AgentNews (UMBC)*  http://www.cs.umbc.edu/agentnews/ agents.news A very useful n
 Agentis http://www.agentissoftware.com/home.jsp agents.com
 Agentland http://www.agentland.com intro,agents.com
 Agents (IBM)  http://www.research.ibm.com/iagents/ agents.edu
-Agents Web (UMBC)*  http://agents.umbc.edu agents.edu One of the best sites for agent news and software.
+Agents Web (UMBC)*  http://agents.umbc.edu intro,agents.edu One of the best sites for agent news and software.
 Agents using Java http://www.amazon.com/exec/obidos/ASIN/047139601X java.ref A book on programming agents (mostly for the Internet) in Java
 Agentsheets http://www.agentsheets.com agents.soft IDE for developing agents and environments; designed for non-programmers.
 Agentware Systems http://www.agentwaresystems.com/ agents.com
