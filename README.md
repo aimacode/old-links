@@ -4,11 +4,9 @@ The file [links.txt](links.txt) is a list of web links that we recommended, back
 
 # Format
 
-Each line in [links.txt](links.txt) has the format: *Title*`*` *url* *topics*.*genre* *comment*
+Each line in [links.txt](links.txt) has the format: *Title*`*` *url* *topics*.*genre* *comment*  &nbsp; For example,
 
-For example,
-
-     Agents Web (UMBC)*  http://agents.umbc.edu intro,agents.edu Great site for agent news and software.
+    Agents Web (UMBC)*  http://agents.umbc.edu intro,agents.edu Great site for agent news and software.
      
 is a line whose fields are as follows:
 
