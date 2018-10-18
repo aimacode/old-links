@@ -6,7 +6,7 @@ import collections
 import re
 
 Link   = collections.namedtuple('Link', 'title, star, url, topics, genre, comment')
-REGEX  = re.compile(r"([^*]+?)([*]?)\s+((http|mailto|ftp):[^\s]+)\s+([a-z,]+)[.]([a-z,]+)\s*(.*)$")
+REGEX  = re.compile(r"([^*]+?)([*]?)\s+((http|https|mailto|ftp):[^\s]+)\s+([a-z,]+)[.]([a-z,]+)\s*(.*)$")
 TOPICS = {'agents', 'intro', 'java', 'learning', 'lisp', 'logic', 'nlp', 'phil', 'planning',
           'prolog', 'python', 'robotics', 'search', 'uncertainty'}
 GENRES = {'com', 'edu', 'humor', 'jour', 'list', 'news', 'org', 'people', 'ref', 'soft'}
